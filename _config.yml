@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "url:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+
 
 url: "https://andrewrjames.github.io" # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -25,9 +25,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+github_username: andrewrjames# your GitHub user name
+twitter_username: drewrafael# your Twitter handle
+linkedin_username: andrewrafael# your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -36,16 +36,14 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-162135912-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: A Head Full of Dreams
+blog_description: a collection of thoughts and stories by an aspiring, twenty-three-year-old data analyst  
 
 # Pagination
 paginate: 4
@@ -58,11 +56,11 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: andrewrjames # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
+show_social_icons:  true
+enable_anchorjs:    true
 enable_katex:       true
 
 # -----------------------------------------------------------------------------
